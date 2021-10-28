@@ -1,0 +1,26 @@
+.navButton{
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 20px;
+    color: #f8f8f8;
+}
+
+.homeButton{
+    text-decoration: none;
+    margin-right: 26px;
+}
+
+.navButton:hover{
+    color: #10b4f2;
+    transition: all 0.17s linear;
+}
+ .homeMoro{
+     font-size: 37px !important;
+     color: #f8f8f8 !important;
+     font-family: 'Oxygen', sans-serif;
+ }
+
+ .homeMoro:hover{
+    color: #10b4f2 !important;
+    transition: all 0.17s linear;
+ }

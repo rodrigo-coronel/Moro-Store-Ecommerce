@@ -1,0 +1,27 @@
+.itemImage {
+    margin-top: 40px;
+}
+
+.itemTitle{
+    color: #3c4858;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.itemPrice{
+    font-size: 32px;
+    color: #10b4f2;
+}
+
+.detailColor{
+    background-color: #ffff;
+}
+
+.itemDescription{
+    border-top: 3px black !important;
+}
+
+.textDescription{
+    margin: 40px;
+    margin-bottom: 21vh !important;
+}

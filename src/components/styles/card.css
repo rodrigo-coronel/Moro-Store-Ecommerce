@@ -1,0 +1,21 @@
+.card{
+    border: none !important;
+}
+
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(16, 180, 242, 0.2); 
+    transition: all 0.20s linear;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.cardImg:hover{
+    transform: scale(1.01);
+    transition: all 0.3s ease-in-out;
+}
+
+.cardTitle{
+    color: #3c4858;
+}

@@ -1,0 +1,49 @@
+.deleteProduct{
+    cursor: pointer;
+    margin: auto;
+}
+
+.sombra:hover{
+    margin-bottom: 1px;
+}
+
+
+.total{
+    color: #10b4f2;
+    font-size: 26px;
+    margin: auto;
+}
+
+.title{
+    color: #3c4858;
+    font-size: 26px;
+    margin: auto;
+}
+
+.quantity{
+    color: #3c4858;
+    font-size: 26px;
+    margin: auto;
+}
+
+.borderr{
+    margin-top: 5px;
+    border-bottom: 1px solid rgba(215,215,215,.7);
+}
+
+.subtotal{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #10b4f2;
+    font-size: 32px;
+    border-bottom: 1px solid rgba(215,215,215,.7);
+}
+
+.botones{
+    margin-bottom: 48vh !important;
+}
+
+.cartVacio{
+    margin-top: 30vh !important;
+    margin-bottom: 80vh !important;
+}
